@@ -5,7 +5,7 @@ Dead By Daylight API
 It allows you to communicate with Dead By Daylight's backend, though if you have any suggestions for new things to add to the API, I may add them for you.
 
 ## What purpose does it serve?
-Currently I use it to retreive and display the shrine of secrets and output when the next one is.
+Currently I use it to retreive and display the shrine of secrets and output when the next one is. ( hehe xdddd im not responsable for stuff u do with it ) 
 
 ## How does it work?
 It logins in anonymously to the Dead By Daylight API, and retrieves information from endpoints from the api and returns them, It also reads from the PAK file (which is what requires the steam user to download the files), to get information such as perks, offerings, characters, tunables, items, ingame Items, Hooks, Wiggel Status etc
