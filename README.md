@@ -8,10 +8,8 @@ It allows you to communicate with Dead By Daylight's backend, though if you have
 Currently I use it to retreive and display the shrine of secrets and output when the next one is.
 
 ## How does it work?
-It logins in anonymously to the Dead By Daylight API, and retrieves information from endpoints from the api and returns them, additionally it does the same from Dead By Daylight's CDN. It also reads from the PAK file (which is what requires the steam user to download the files), to get information such as perks, offerings, characters, tunables, items, etc...
+It logins in anonymously to the Dead By Daylight API, and retrieves information from endpoints from the api and returns them, It also reads from the PAK file (which is what requires the steam user to download the files), to get information such as perks, offerings, characters, tunables, items, ingame Items, Hooks, Wiggel Status etc
 
-## Where is it hosted?
-you can find it [here](https://dbd-stats.info)
 
 ## Endpoints
 1.  /api/maps(?branch=live)
